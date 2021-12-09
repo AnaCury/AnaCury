@@ -1,6 +1,6 @@
 ![Ana Paula Cury banner](https://serving.photos.photobox.com/0200437204f444000312549043dfb4b7c766d1754914d523327a35dc5a3616719d40b723.jpg)
 
-## :Woman_Tipping_Hand:  About me
+## 💁‍♀️:  About me
 - Le Wagon alumni (Batch #690 - Web Development)
 - Law School Graduate
 - Self-taught UX/UI Designer 
