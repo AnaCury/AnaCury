@@ -1,10 +1,11 @@
 ![Ana Paula Cury banner](https://serving.photos.photobox.com/0200437204f444000312549043dfb4b7c766d1754914d523327a35dc5a3616719d40b723.jpg)
 
-## 💁‍♀️ About me
+## 🐤 About me
 - Le Wagon alumni (Batch #690 - Web Development)
 - Law School Graduate
-- Self-taught UX/UI Designer 
-- I love learning, researching, creating and solving problems
+- Front-end Web-developer
+- UX/UI Designer 
+- I love developing and researching 
 
 ## :sparkles: Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
