@@ -1,8 +1,8 @@
 ![Ana Paula Cury banner](https://serving.photos.photobox.com/0200437204f444000312549043dfb4b7c766d1754914d523327a35dc5a3616719d40b723.jpg)
 
-## 🤖 About me
+## 🤵🏻‍♀️ About me
 - Healthy normal girl
-- Based in Brasil 
+- Based in Brasil 🇧🇷
 - A dev full cycle
 - Freelancer 
 - Le Wagon alumni (Batch #690 - Web Development)
@@ -10,11 +10,13 @@
 - LLM in Bioethics 
 - Law School Graduate
 
-## 🎀 I absolutely love 
+
+## ❣️ I absolutely love 
 - BOTW
 - Zelda 
 - Nintendo
 - Dr. Who
+
 
 ## 👩‍💻 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +42,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
 
 ## 📱 Reach me out on 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anapaulacury)
