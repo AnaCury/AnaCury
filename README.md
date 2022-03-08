@@ -1,11 +1,9 @@
 ![Ana Paula Cury banner](https://serving.photos.photobox.com/0200437204f444000312549043dfb4b7c766d1754914d523327a35dc5a3616719d40b723.jpg)
 
 ## 🤵🏻‍♀️ About me
-- Healthy normal girl
-- Based in Brasil 🇧🇷
-- A dev full cycle
+- Dev full cycle based in Brasil 🇧🇷
 - Freelancer 
-- Le Wagon alumni (Batch #690 - Web Development)
+- Le Wagon Alumni (Batch #690 - Web Development)
 - UX/UI Designer (London App Brewery)
 - LLM in Bioethics 
 - Law School Graduate
