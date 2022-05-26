@@ -10,7 +10,7 @@
 
 
 ## ❣️ I absolutely love 
-- BOTW ![linkinho](https://user-images.githubusercontent.com/75744584/170513919-694a2db5-32e9-4c22-982c-85b16fa7133a.jpeg)
+- BOTW
 - Nintendo
 - Dr. Who
 
