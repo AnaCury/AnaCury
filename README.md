@@ -10,7 +10,7 @@
 
 
 ## ❣️ I absolutely love 
-- BOTW
+- Zelda BOTW
 - Nintendo
 - Dr. Who
 
