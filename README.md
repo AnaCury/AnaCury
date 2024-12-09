@@ -1,9 +1,6 @@
-![Ana Paula Cury banner](https://serving.photos.photobox.com/0200437204f444000312549043dfb4b7c766d1754914d523327a35dc5a3616719d40b723.jpg)
 
 ## 🤵🏻‍♀️ About me
 - UX/UI Designer and Software Engineer based in Brasil 🇧🇷
-- Product Designer at [Instituto Atlântico](https://open.spotify.com/user/anacury) 
-- Freelancer Software Engineer (currently freelancing for [Vila Brasil](https://escolavilabrasil.com.br)) 
 - Le Wagon Alumni (Batch #690 - Web Development)
 - LLM in Bioethics 
 - Law School Graduate
