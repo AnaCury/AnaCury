@@ -1,6 +1,7 @@
 
 ## 🤵🏻‍♀️ About me
-- UX/UI Designer and Software Engineer based in Brasil 🇧🇷
+- Software Engineer based in Brasil 🇧🇷
+- SheCodes Alumni
 - Le Wagon Alumni (Batch #690 - Web Development)
 - LLM in Bioethics 
 - Law School Graduate
